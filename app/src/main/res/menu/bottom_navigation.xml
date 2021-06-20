@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/rent_bottomNav"
+        android:title="Rent a car"
+        android:icon="@drawable/ic_group23"/>
+    <item
+        android:id="@+id/booking_bottomNav"
+        android:title="Bookings"
+        android:icon="@drawable/ic_baseline_check_box_24"/>
+
+    <item
+        android:id="@+id/refer_bottomNav"
+        android:title="Refer a friend"
+        android:icon="@drawable/ic_baseline_card_giftcard_24"/>
+
+    <item
+        android:id="@+id/account_bottomNav"
+        android:title="Account"
+        android:icon="@drawable/ic_baseline_settings_24"/>
+
+</menu>
